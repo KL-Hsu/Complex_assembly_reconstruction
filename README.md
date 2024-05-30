@@ -1,5 +1,12 @@
 # Reconstruction of protein complex assembly from pairwise cooperative stabilization data
 
+Authors: Kuan-Lun Hsu and Chen-Hsiang Yeang
+
+Last updated date: 2024/5/30 
+
+Cite this work:
+
+Hsu, KL. & Yeang, CH. RPCA: Reconstruction of Protein Complex Assembly v1.0.0 [Computer software] Zenodo https://zenodo.org/doi/10.5281/zenodo.11396251
 
 ## Installation
 
