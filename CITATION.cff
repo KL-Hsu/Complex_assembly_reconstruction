@@ -1,0 +1,15 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below.
+Hsu, KL. & Yeang, CH. RPCA: Reconstruction of Protein Complex Assembly v1.0.0 [Computer software] Zenodo https://zenodo.org/doi/10.5281/zenodo.11396251"
+
+authors:
+- family-names: Hsu
+  given-names: Kuan-Lun
+  orcid: https://orcid.org/0000-0002-4131-1775
+- family-names: Yeang
+  given-names: Chen-Hsiang
+  orcid: https://orcid.org/0000-0002-9224-5800
+
+title: RPCA: Reconstruction of Protein Complex Assembly
+version: v1.0.0
+date-released: 2024-05-30
